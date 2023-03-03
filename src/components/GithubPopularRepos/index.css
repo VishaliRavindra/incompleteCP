@@ -1,0 +1,10 @@
+.language-un-list {
+  display: flex;
+  flex-direction: row;
+}
+.each-details {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 0px;
+  padding-left: 0px;
+}
